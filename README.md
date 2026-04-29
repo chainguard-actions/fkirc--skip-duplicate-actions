@@ -1,5 +1,7 @@
 # fkirc/skip-duplicate-actions
 
+Save time and cost when using GitHub Actions
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/fkirc/skip-duplicate-actions](https://github.com/fkirc/skip-duplicate-actions).
 
 ## Versions
