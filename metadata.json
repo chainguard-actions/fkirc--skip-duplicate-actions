@@ -1,7 +1,7 @@
 {
   "owner": "fkirc",
   "name": "skip-duplicate-actions",
-  "visibility": "internal",
+  "visibility": "public",
   "description": "Save time and cost when using GitHub Actions",
   "block_publish": false
 }
